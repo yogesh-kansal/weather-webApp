@@ -1,0 +1,14 @@
+.form {
+    /*margin: 20px auto;*/
+    background-color: rgb(248, 248, 248);
+    width: 100%;
+    font: outline;
+    font-size: large;
+    font-family: Gill Sans Extrabold, cursive;
+    box-shadow: 4px 4px 4px 8px #ccc;
+    border: 1px solid #eee;
+    border-radius:12px;
+    padding: 2px;
+    box-sizing: border-box;
+
+}
